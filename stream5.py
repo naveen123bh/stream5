@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt  # Importing matplotlib for plotting
 
 # Title and subheader
-st.title("Data Analysis:built by naveen BHATT hosted by Ayushi")
+st.title("Data Analysis app:built by naveen BHATT hosted by Ayushi")
 st.subheader("Data analysis using Python ,just drop any file and analyse your data reports")
 
 # File uploader for CSV
